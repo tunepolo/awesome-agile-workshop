@@ -23,6 +23,14 @@
 - [ファン・ダン・ラーン(FDL)ふりかえりボード](https://yattom.hatenablog.com/entries/2018/10/31)
 - [ふりかえりでFun! Done! Learn!](https://www.ogis-ri.co.jp/otc/hiroba/others/ActivityPocket/FunDoneLearn.html)
 
+### ポストモーテム
+
+> ポストモーテムとは、直訳すると検死となりますが、そこから転じて何か問題が発生した際に行うふりかえりのひとつです。
+> 問題が発生し収束した後に、落ち着いた状態で客観的に事象を振り返りを行い、認識合わせや原因の確認、再発防止などを検討していきます。
+
+- [実践！ポストモーテム](https://inside.pixiv.blog/shimashima/6452)
+- [ポストモーテムの文化](https://tech.mti.co.jp/entry/2017/11/25/000316)
+
 ## コミュニケーション
 
 ### TGIF
