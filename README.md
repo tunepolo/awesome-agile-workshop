@@ -22,6 +22,16 @@
 - [レゴ®ブロックでスクラム入門（レゴスクラム）](https://www.waicrew.com/training/scrum/)
 - [#LEGO4SCRUM : SCRUM SIMULAITION WITH LEGO](https://www.lego4scrum.com/)
 
+### スクラムパターンワークショップ
+
+> 私たちはそのパターンを通して、先人たちの知恵を学ぶことができます。
+> パターンは時に知っていると思い込んでいる事に関しても新しい視点を与えてくれたり、改めて解決方法の目的の真意を思い起こさせたりします。
+>
+> そんなパターンを中心にみんなで問題を議論し、よりよい解決方法を見出したいと思っています。
+
+- [明日現場で使える！とにかく明るいScrum Patterns 活用ワークショップ](https://confengine.com/regional-scrum-gathering-tokyo-2019/proposal/7828/scrum-patterns)
+- [Scrum Patterns Workshop RSGT2019](https://speakerdeck.com/sasakendayo/scrum-patterns-workshop-rsgt2019)
+
 ## チーム文化の強化
 
 ### チームメンバーを"テスト"する
