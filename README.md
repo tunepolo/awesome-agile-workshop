@@ -45,6 +45,13 @@
 
 - [Learning to Experiment](https://www.agilealliance.org/resources/experience-reports/learning-to-experiment/)
 
+### ドラッカー風エクササイズ
+
+> ドラッカー風エクササイズは、アジャイルサムライの著者であるJonathan Rasmusson氏が書籍やブログで紹介しているチームビルディングの手法です。
+> 4つの質問に全員が答えることで、相互理解の促進と期待のすりあわせという効果があり、特にプロジェクトの開始時や新メンバーを迎えるときに効果的であると言われています。
+
+- [「ドラッカー風エクササイズ」で期待をすりあわせて安全なチームに](https://tech.pepabo.com/2017/07/07/the-drucker-exercise/)
+
 ### チームメンバーを"テスト"する
 
 > 新メンバーに毎週、試験を受けてもらう
