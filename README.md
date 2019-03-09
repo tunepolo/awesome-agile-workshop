@@ -135,6 +135,12 @@
 
 - [ユーザーストーリーマッピングをやってみた](https://dev.classmethod.jp/devops/user_story_mapping/)
 
+### バリューストリームマッピング
+
+> バリューストリームマッピングとは、製品やサービス、機能を顧客に届けるために必要なプロセスを可視化するためのツールです。
+
+- [バリューストリームマッピングをやってみた](https://dev.classmethod.jp/devops/value-stream-mapping/)
+
 ## コミュニケーション
 
 ### TGIF
