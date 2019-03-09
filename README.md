@@ -50,6 +50,13 @@
 - [レゴ®ブロックでスクラム入門（レゴスクラム）](https://www.waicrew.com/training/scrum/)
 - [#LEGO4SCRUM : SCRUM SIMULAITION WITH LEGO](https://www.lego4scrum.com/)
 
+### ピンポンゲーム / Ball Point Game
+
+> ボール・ポイント・ゲームの目的は、２分間でできる限りたくさんのボールをチームの中でパスさせることである。
+
+- [学習のためのアジャイルゲーム](https://www.infoq.com/jp/news/2008/10/agile-games)
+- [ピンポンゲームでスクラム体験ワークショップ](https://speakerdeck.com/player/5c856320765a0131bdae2a0fad9cf655)
+
 ### スクラムパターンワークショップ
 
 > 私たちはそのパターンを通して、先人たちの知恵を学ぶことができます。
