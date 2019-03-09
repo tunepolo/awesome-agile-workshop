@@ -34,7 +34,12 @@
 
 ## チーム文化の強化
 
-### Lofty Goals
+### Working Agreement / Lofty Goals
+
+> Working Agreementとは、チーム内の価値観や行動規範のことを指します。
+
+- [チームの働き方やルールを決める『Working Agreement』とは？](https://katapi.net/life/work/working-agreement)
+- [Bootstrapping a Working Agreement for the Agile Team](https://blog.crisp.se/2018/12/05/jimmyjanlen/bootstrapping-a-working-agreement-for-the-agile-team)
 
 > These are not only goals but also a form of working agreement for the team to reference when things are noticeably going in a direction outside of the parameters of what we as a department define as success.
 
