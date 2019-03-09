@@ -34,6 +34,12 @@
 
 ## チーム文化の強化
 
+### Lofty Goals
+
+> These are not only goals but also a form of working agreement for the team to reference when things are noticeably going in a direction outside of the parameters of what we as a department define as success.
+
+- [Learning to Experiment](https://www.agilealliance.org/resources/experience-reports/learning-to-experiment/)
+
 ### チームメンバーを"テスト"する
 
 > 新メンバーに毎週、試験を受けてもらう
