@@ -60,6 +60,17 @@
 - [明日現場で使える！とにかく明るいScrum Patterns 活用ワークショップ](https://confengine.com/regional-scrum-gathering-tokyo-2019/proposal/7828/scrum-patterns)
 - [Scrum Patterns Workshop RSGT2019](https://speakerdeck.com/sasakendayo/scrum-patterns-workshop-rsgt2019)
 
+### 地獄のデイリースクラム
+
+> ６－８人くらいのチームで行います。(ひとりはスクラムマスター)
+> 皆さんはテキストエディタを開発している開発チームという設定で臨んでください
+> メンバーにそれぞれ『秘密のミッション』カードをお渡しします。人には見せないように！
+> ロールプレイの間、このカードに書かれている内容を演じてください。ノリ重要。
+> もしスクラムマスターにふるまいを指摘された場合は、ふるまいを貫き通さないようにしてください
+
+- [スクラムナイト#8 地獄のデイリースクラム ~ 19時半だヨ！全員集合](https://www.slideshare.net/kaihara_t/8-19-daily-scrum-from-hell-next)
+- [デイリースクラムを学ぶワークショップ（地獄のデイリースクラム）](https://www.ryuzee.com/contents/blog/5624)
+
 ## ふりかえり
 
 ### KPT : Keep Problem Try
