@@ -111,6 +111,15 @@
 - [ファン・ダン・ラーン(FDL)ふりかえりボード](https://yattom.hatenablog.com/entries/2018/10/31)
 - [ふりかえりでFun! Done! Learn!](https://www.ogis-ri.co.jp/otc/hiroba/others/ActivityPocket/FunDoneLearn.html)
 
+### Start, Stop, Continue
+
+> 面談時などに話しあう内容をリスト形式で集約し、全体結果を分析しながら次の3つに分類します。
+> - スタート(Start)・・・これから何を始めるか
+> - ストップ(Stop)・・・今までしてきたことで何をやめるか
+> - コンティニュー(Continue)・・・何をこれからも継続していくか
+
+- [【スタート、ストップ、コンティニュー】1on1やフィードバック時に使える効果的なフレームワーク](http://hrtechwine.com/start-stop-continue/)
+
 ### ポストモーテム
 
 > ポストモーテムとは、直訳すると検死となりますが、そこから転じて何か問題が発生した際に行うふりかえりのひとつです。
