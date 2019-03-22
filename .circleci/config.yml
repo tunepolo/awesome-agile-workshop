@@ -1,0 +1,25 @@
+version: 2.1
+
+executors:
+  default:
+    working_directory: ~/workspace
+    docker:
+      - image: circleci/ruby
+
+jobs:
+  awesome_bot:
+    executor:
+      name: default
+    steps:
+      - checkout
+      - run:
+          name: Install awesome_bot
+          command: gem install awesome_bot
+      - run:
+          name: Run awesome_bot
+          command: awesome_bot README.md --allow-dupe --allow-redirect
+
+workflows:
+  lint:
+    jobs: 
+      - awesome_bot
