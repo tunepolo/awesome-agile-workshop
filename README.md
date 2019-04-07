@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/tunepolo/awesome-agile-workshop.svg?style=svg)](https://circleci.com/gh/tunepolo/awesome-agile-workshop)
+
 # awesome-agile-workshop
 
 アジャイル開発・チームビルディングに役立つワークショップのまとめ
