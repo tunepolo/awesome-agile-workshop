@@ -162,6 +162,7 @@
 > バリューストリームマッピングとは、製品やサービス、機能を顧客に届けるために必要なプロセスを可視化するためのツールです。
 
 - [バリューストリームマッピングをやってみた](https://dev.classmethod.jp/devops/value-stream-mapping/)
+- [Value Stream Mapping ワークショップ @ DevOpsDays Tokyo 2019](https://speakerdeck.com/hirokiarai/value-stream-mapping-wakusiyotupu-at-devopsdays-tokyo-2019)
 
 ### インパクトマッピング
 
