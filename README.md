@@ -139,6 +139,20 @@
 - [【スタート、ストップ、コンティニュー】1on1やフィードバック時に使える効果的なフレームワーク](http://hrtechwine.com/start-stop-continue/)
 - [Start, Stop, Continue](https://gamestorming.com/start-stop-continue/)
 
+### 6 Thinking Hats Retrospective
+
+> The team discuss the previous period since the last retrospective whilst collectively wearing one of De Bono’s ”hats” at any time. The hats relate to particular ways of thinking and force the group to collectively think and discuus in a particular way. The facilitator documents any output on a whiteboard. The ouput from the last hat (Red) is converted into actions.
+
+役割を紐づけた帽子をかぶり、決められた時間内で話し合う。
+
+- 白…事実と数字
+- 黄色…肯定的思想
+- 黒…批判的思想
+- 緑…問題解決
+
+- [6 Thinking Hats Retrospective - Agile Retrospective Resource Wiki](http://retrospectivewiki.org/index.php?title=6_Thinking_Hats_Retrospective)
+- [斜に構える・構えないを切り替えるロールプレイングふりかえり | TAKAKING22.com](https://takaking22.com/2019/role-playing-retrospective/)
+
 ### ポストモーテム
 
 > ポストモーテムとは、直訳すると検死となりますが、そこから転じて何か問題が発生した際に行うふりかえりのひとつです。
